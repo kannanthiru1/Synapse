@@ -1,0 +1,10 @@
+{
+	"name": "AzureSqlDatabase1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/7e3e9f07-0421-4e79-92cb-7c17ad12c773/resourceGroups/ResourceGroup1/providers/Microsoft.Sql/servers/oltpserver1",
+		"groupId": "sqlServer",
+		"fqdns": [
+			"oltpserver1.database.windows.net"
+		]
+	}
+}
